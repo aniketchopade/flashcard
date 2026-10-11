@@ -1,11 +1,110 @@
 {
   "version": 1,
   "cards": [
-    {"id": "bio-001", "deck": "biology", "chapter": "Sample",
-     "q": "Which organelle makes most of the cell's ATP?",
-     "a": "Mitochondria - site of cellular respiration"},
-    {"id": "bio-002", "deck": "biology", "chapter": "Sample",
-     "q": "What does the cell membrane control?",
-     "a": "What enters and leaves the cell"}
+    {
+      "id": "bio-7.2-01",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "Where does most photosynthesis happen in a plant?",
+      "a": "In the leaves. All green parts have chloroplasts, but leaves are the main site."
+    },
+    {
+      "id": "bio-7.2-02",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "What gives leaves their green color?",
+      "a": "Chlorophyll - a light-absorbing pigment inside the chloroplasts."
+    },
+    {
+      "id": "bio-7.2-03",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "What is the main job of chlorophyll?",
+      "a": "It absorbs light energy so the plant can turn solar energy into chemical energy."
+    },
+    {
+      "id": "bio-7.2-04",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "What is the mesophyll?",
+      "a": "The green tissue inside the leaf where most chloroplasts are found."
+    },
+    {
+      "id": "bio-7.2-05",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "What are stomata?",
+      "a": "Tiny pores in the leaf. CO2 enters and O2 exits through them. (Stoma = 'mouth')"
+    },
+    {
+      "id": "bio-7.2-06",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "How does water get to the leaves?",
+      "a": "Roots absorb it, then veins carry it up to the leaves."
+    },
+    {
+      "id": "bio-7.2-07",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "How does sugar made in a leaf reach the rest of the plant?",
+      "a": "Veins carry it from the leaf to the roots and other parts."
+    },
+    {
+      "id": "bio-7.2-08",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "About how many chloroplasts does a mesophyll cell have?",
+      "a": "About 30 to 40."
+    },
+    {
+      "id": "bio-7.2-09",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "What surrounds a chloroplast?",
+      "a": "An envelope made of two membranes."
+    },
+    {
+      "id": "bio-7.2-10",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "What is the stroma?",
+      "a": "The thick fluid filling the chloroplast's inner compartment. Sugar is made here."
+    },
+    {
+      "id": "bio-7.2-11",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "What are thylakoids?",
+      "a": "Connected membrane sacs inside the stroma. They enclose the thylakoid space."
+    },
+    {
+      "id": "bio-7.2-12",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "What are grana?",
+      "a": "Stacks of thylakoids. (Singular: granum)"
+    },
+    {
+      "id": "bio-7.2-13",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "Where in the chloroplast is chlorophyll located?",
+      "a": "Built into the thylakoid membranes."
+    },
+    {
+      "id": "bio-7.2-14",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "Thylakoids vs stroma: who does what?",
+      "a": "Thylakoid membranes turn light energy into chemical energy. The stroma uses it to make sugar."
+    },
+    {
+      "id": "bio-7.2-15",
+      "deck": "biology",
+      "chapter": "7.2 Photosynthesis in chloroplasts",
+      "q": "How do CO2 and water reach the chloroplasts in a leaf?",
+      "a": "CO2 enters through the stomata. Water comes from the roots through the veins."
+    }
   ]
 }
