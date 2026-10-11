@@ -1,0 +1,57 @@
+{
+  "subject": "biology",
+  "section": "4.7",
+  "title": "Endomembrane system",
+  "cards": [
+    {
+      "id": "bio-4.7-01",
+      "q": "What is the endomembrane system?",
+      "a": "Internal membranes that work together - some physically connected, others linked by vesicles."
+    },
+    {
+      "id": "bio-4.7-02",
+      "q": "Name the parts of the endomembrane system.",
+      "a": "Nuclear envelope, ER, Golgi, lysosomes, vesicles and vacuoles, plasma membrane."
+    },
+    {
+      "id": "bio-4.7-03",
+      "q": "What are vesicles?",
+      "a": "Tiny sacs made of membrane that move membrane segments between organelles."
+    },
+    {
+      "id": "bio-4.7-04",
+      "q": "Why is the plasma membrane in the endomembrane system?",
+      "a": "It is linked to the other membranes by vesicle transfer."
+    },
+    {
+      "id": "bio-4.7-05",
+      "q": "What is the largest part of the endomembrane system?",
+      "a": "The endoplasmic reticulum (ER) - a network of flattened sacs and tubules."
+    },
+    {
+      "id": "bio-4.7-06",
+      "q": "What does 'endoplasmic reticulum' mean?",
+      "a": "Endoplasmic = 'within the cytoplasm'; reticulum = Latin for 'little net'."
+    },
+    {
+      "id": "bio-4.7-07",
+      "q": "How is the ER directly connected to the nucleus?",
+      "a": "ER membranes are continuous with the nuclear envelope."
+    },
+    {
+      "id": "bio-4.7-08",
+      "q": "How does the ER reach other organelles indirectly?",
+      "a": "Vesicles bud from the ER and travel to other parts of the system."
+    },
+    {
+      "id": "bio-4.7-09",
+      "q": "Why does the ER enclose a space separate from the cytosol?",
+      "a": "It divides the cell into compartments, each able to keep different conditions."
+    },
+    {
+      "id": "bio-4.7-10",
+      "q": "Which includes the rest: ER, vesicle, endomembrane system, nuclear envelope?",
+      "a": "The endomembrane system."
+    }
+  ]
+}

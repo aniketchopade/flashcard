@@ -1,0 +1,77 @@
+{
+  "subject": "biology",
+  "section": "4.5",
+  "title": "The nucleus",
+  "cards": [
+    {
+      "id": "bio-4.5-01",
+      "q": "What does the nucleus contain?",
+      "a": "The cell's genetic instructions, encoded in DNA."
+    },
+    {
+      "id": "bio-4.5-02",
+      "q": "How does the nucleus control the cell's activities?",
+      "a": "By directing protein synthesis."
+    },
+    {
+      "id": "bio-4.5-03",
+      "q": "What are chromosomes?",
+      "a": "DNA associated with many proteins. The proteins help coil the long DNA molecules."
+    },
+    {
+      "id": "bio-4.5-04",
+      "q": "How long is the DNA of one human cell's 46 chromosomes?",
+      "a": "Over 2 m laid end to end, coiled into a nucleus only about 5 um across."
+    },
+    {
+      "id": "bio-4.5-05",
+      "q": "What is chromatin?",
+      "a": "The complex of DNA and proteins. In a non-dividing cell it looks like a diffuse mass."
+    },
+    {
+      "id": "bio-4.5-06",
+      "q": "What happens to DNA before a cell divides?",
+      "a": "It is copied, so each daughter cell gets an identical set of genetic instructions."
+    },
+    {
+      "id": "bio-4.5-07",
+      "q": "What happens to chromatin just before cell division?",
+      "a": "Its fibers coil up further into thick chromosomes visible with a light microscope."
+    },
+    {
+      "id": "bio-4.5-08",
+      "q": "What is the nuclear envelope?",
+      "a": "A double membrane around the nucleus. Each membrane is a phospholipid bilayer with proteins."
+    },
+    {
+      "id": "bio-4.5-09",
+      "q": "What do nuclear pores do?",
+      "a": "Protein-lined pores that regulate entry and exit of large molecules."
+    },
+    {
+      "id": "bio-4.5-10",
+      "q": "The nuclear envelope connects to which membrane network?",
+      "a": "The endoplasmic reticulum (ER)."
+    },
+    {
+      "id": "bio-4.5-11",
+      "q": "What is made in the nucleolus?",
+      "a": "Ribosomal RNA (rRNA), made from DNA instructions."
+    },
+    {
+      "id": "bio-4.5-12",
+      "q": "How are ribosomal subunits built?",
+      "a": "rRNA joins proteins imported from the cytoplasm. Subunits exit via pores and join in the cytoplasm."
+    },
+    {
+      "id": "bio-4.5-13",
+      "q": "What is messenger RNA (mRNA)?",
+      "a": "A copy of protein-making instructions from DNA. It goes to the cytoplasm to be translated."
+    },
+    {
+      "id": "bio-4.5-14",
+      "q": "Name the 3 processes that happen in the nucleus.",
+      "a": "DNA is copied; ribosomal subunits are assembled; DNA instructions are transcribed into mRNA."
+    }
+  ]
+}

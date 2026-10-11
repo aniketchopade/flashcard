@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "subjects": [
+    {
+      "name": "biology",
+      "sections": [
+        {
+          "section": "4.5",
+          "title": "The nucleus",
+          "file": "biology/4.5.json",
+          "count": 14
+        },
+        {
+          "section": "4.6",
+          "title": "Ribosomes",
+          "file": "biology/4.6.json",
+          "count": 10
+        },
+        {
+          "section": "4.7",
+          "title": "Endomembrane system",
+          "file": "biology/4.7.json",
+          "count": 10
+        }
+      ]
+    }
+  ]
+}

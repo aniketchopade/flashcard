@@ -1,0 +1,57 @@
+{
+  "subject": "biology",
+  "section": "4.6",
+  "title": "Ribosomes",
+  "cards": [
+    {
+      "id": "bio-4.6-01",
+      "q": "What do ribosomes do?",
+      "a": "Build proteins using instructions from the nucleus, written in mRNA."
+    },
+    {
+      "id": "bio-4.6-02",
+      "q": "Why does a pancreas cell have millions of ribosomes?",
+      "a": "It makes lots of protein - digestive enzymes."
+    },
+    {
+      "id": "bio-4.6-03",
+      "q": "Besides ribosomes, what is prominent in protein-making cells?",
+      "a": "A large nucleolus, where ribosomal subunits are assembled."
+    },
+    {
+      "id": "bio-4.6-04",
+      "q": "Where are free ribosomes found?",
+      "a": "Suspended in the cytosol."
+    },
+    {
+      "id": "bio-4.6-05",
+      "q": "Where are bound ribosomes found?",
+      "a": "Attached to the outside of the ER or the nuclear envelope."
+    },
+    {
+      "id": "bio-4.6-06",
+      "q": "Are free and bound ribosomes different structures?",
+      "a": "No. They are identical and can work in either place, depending on the protein made."
+    },
+    {
+      "id": "bio-4.6-07",
+      "q": "What do proteins made by free ribosomes usually do?",
+      "a": "Work in the cytosol, e.g. enzymes for the first steps of sugar breakdown."
+    },
+    {
+      "id": "bio-4.6-08",
+      "q": "What proteins do bound ribosomes typically make?",
+      "a": "Proteins that will be exported from the cell."
+    },
+    {
+      "id": "bio-4.6-09",
+      "q": "What does a ribosome translate mRNA into?",
+      "a": "The mRNA nucleotide sequence becomes the amino acid sequence of a polypeptide."
+    },
+    {
+      "id": "bio-4.6-10",
+      "q": "DNA -> RNA -> protein is an example of which theme?",
+      "a": "The flow of INFORMATION."
+    }
+  ]
+}
