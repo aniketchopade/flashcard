@@ -2,109 +2,242 @@
   "version": 1,
   "cards": [
     {
-      "id": "bio-7.2-01",
+      "id": "bio-4.5-01",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "Where does most photosynthesis happen in a plant?",
-      "a": "In the leaves. All green parts have chloroplasts, but leaves are the main site."
+      "chapter": "4.5 The nucleus",
+      "q": "What does the nucleus contain?",
+      "a": "The cell's genetic instructions, encoded in DNA."
     },
     {
-      "id": "bio-7.2-02",
+      "id": "bio-4.5-02",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "What gives leaves their green color?",
-      "a": "Chlorophyll - a light-absorbing pigment inside the chloroplasts."
+      "chapter": "4.5 The nucleus",
+      "q": "How does the nucleus control the cell's activities?",
+      "a": "By directing protein synthesis."
     },
     {
-      "id": "bio-7.2-03",
+      "id": "bio-4.5-03",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "What is the main job of chlorophyll?",
-      "a": "It absorbs light energy so the plant can turn solar energy into chemical energy."
+      "chapter": "4.5 The nucleus",
+      "q": "What are chromosomes?",
+      "a": "DNA associated with many proteins. The proteins help coil the long DNA molecules."
     },
     {
-      "id": "bio-7.2-04",
+      "id": "bio-4.5-04",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "What is the mesophyll?",
-      "a": "The green tissue inside the leaf where most chloroplasts are found."
+      "chapter": "4.5 The nucleus",
+      "q": "How long is the DNA of one human cell's 46 chromosomes?",
+      "a": "Over 2 m laid end to end, coiled into a nucleus only about 5 um across."
     },
     {
-      "id": "bio-7.2-05",
+      "id": "bio-4.5-05",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "What are stomata?",
-      "a": "Tiny pores in the leaf. CO2 enters and O2 exits through them. (Stoma = 'mouth')"
+      "chapter": "4.5 The nucleus",
+      "q": "What is chromatin?",
+      "a": "The complex of DNA and proteins. In a non-dividing cell it looks like a diffuse mass."
     },
     {
-      "id": "bio-7.2-06",
+      "id": "bio-4.5-06",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "How does water get to the leaves?",
-      "a": "Roots absorb it, then veins carry it up to the leaves."
+      "chapter": "4.5 The nucleus",
+      "q": "What happens to DNA before a cell divides?",
+      "a": "It is copied, so each daughter cell gets an identical set of genetic instructions."
     },
     {
-      "id": "bio-7.2-07",
+      "id": "bio-4.5-07",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "How does sugar made in a leaf reach the rest of the plant?",
-      "a": "Veins carry it from the leaf to the roots and other parts."
+      "chapter": "4.5 The nucleus",
+      "q": "What happens to chromatin just before cell division?",
+      "a": "Its fibers coil up further into thick chromosomes visible with a light microscope."
     },
     {
-      "id": "bio-7.2-08",
+      "id": "bio-4.5-08",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "About how many chloroplasts does a mesophyll cell have?",
-      "a": "About 30 to 40."
+      "chapter": "4.5 The nucleus",
+      "q": "What is the nuclear envelope?",
+      "a": "A double membrane around the nucleus. Each membrane is a phospholipid bilayer with proteins."
     },
     {
-      "id": "bio-7.2-09",
+      "id": "bio-4.5-09",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "What surrounds a chloroplast?",
-      "a": "An envelope made of two membranes."
+      "chapter": "4.5 The nucleus",
+      "q": "What do nuclear pores do?",
+      "a": "Protein-lined pores that regulate entry and exit of large molecules."
     },
     {
-      "id": "bio-7.2-10",
+      "id": "bio-4.5-10",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "What is the stroma?",
-      "a": "The thick fluid filling the chloroplast's inner compartment. Sugar is made here."
+      "chapter": "4.5 The nucleus",
+      "q": "The nuclear envelope connects to which membrane network?",
+      "a": "The endoplasmic reticulum (ER)."
     },
     {
-      "id": "bio-7.2-11",
+      "id": "bio-4.5-11",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "What are thylakoids?",
-      "a": "Connected membrane sacs inside the stroma. They enclose the thylakoid space."
+      "chapter": "4.5 The nucleus",
+      "q": "What is made in the nucleolus?",
+      "a": "Ribosomal RNA (rRNA), made from DNA instructions."
     },
     {
-      "id": "bio-7.2-12",
+      "id": "bio-4.5-12",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "What are grana?",
-      "a": "Stacks of thylakoids. (Singular: granum)"
+      "chapter": "4.5 The nucleus",
+      "q": "How are ribosomal subunits built?",
+      "a": "rRNA joins proteins imported from the cytoplasm. Subunits exit via pores and join in the cytoplasm."
     },
     {
-      "id": "bio-7.2-13",
+      "id": "bio-4.5-13",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "Where in the chloroplast is chlorophyll located?",
-      "a": "Built into the thylakoid membranes."
+      "chapter": "4.5 The nucleus",
+      "q": "What is messenger RNA (mRNA)?",
+      "a": "A copy of protein-making instructions from DNA. It goes to the cytoplasm to be translated."
     },
     {
-      "id": "bio-7.2-14",
+      "id": "bio-4.5-14",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "Thylakoids vs stroma: who does what?",
-      "a": "Thylakoid membranes turn light energy into chemical energy. The stroma uses it to make sugar."
+      "chapter": "4.5 The nucleus",
+      "q": "Name the 3 processes that happen in the nucleus.",
+      "a": "DNA is copied; ribosomal subunits are assembled; DNA instructions are transcribed into mRNA."
     },
     {
-      "id": "bio-7.2-15",
+      "id": "bio-4.6-01",
       "deck": "biology",
-      "chapter": "7.2 Photosynthesis in chloroplasts",
-      "q": "How do CO2 and water reach the chloroplasts in a leaf?",
-      "a": "CO2 enters through the stomata. Water comes from the roots through the veins."
+      "chapter": "4.6 Ribosomes",
+      "q": "What do ribosomes do?",
+      "a": "Build proteins using instructions from the nucleus, written in mRNA."
+    },
+    {
+      "id": "bio-4.6-02",
+      "deck": "biology",
+      "chapter": "4.6 Ribosomes",
+      "q": "Why does a pancreas cell have millions of ribosomes?",
+      "a": "It makes lots of protein - digestive enzymes."
+    },
+    {
+      "id": "bio-4.6-03",
+      "deck": "biology",
+      "chapter": "4.6 Ribosomes",
+      "q": "Besides ribosomes, what is prominent in protein-making cells?",
+      "a": "A large nucleolus, where ribosomal subunits are assembled."
+    },
+    {
+      "id": "bio-4.6-04",
+      "deck": "biology",
+      "chapter": "4.6 Ribosomes",
+      "q": "Where are free ribosomes found?",
+      "a": "Suspended in the cytosol."
+    },
+    {
+      "id": "bio-4.6-05",
+      "deck": "biology",
+      "chapter": "4.6 Ribosomes",
+      "q": "Where are bound ribosomes found?",
+      "a": "Attached to the outside of the ER or the nuclear envelope."
+    },
+    {
+      "id": "bio-4.6-06",
+      "deck": "biology",
+      "chapter": "4.6 Ribosomes",
+      "q": "Are free and bound ribosomes different structures?",
+      "a": "No. They are identical and can work in either place, depending on the protein made."
+    },
+    {
+      "id": "bio-4.6-07",
+      "deck": "biology",
+      "chapter": "4.6 Ribosomes",
+      "q": "What do proteins made by free ribosomes usually do?",
+      "a": "Work in the cytosol, e.g. enzymes for the first steps of sugar breakdown."
+    },
+    {
+      "id": "bio-4.6-08",
+      "deck": "biology",
+      "chapter": "4.6 Ribosomes",
+      "q": "What proteins do bound ribosomes typically make?",
+      "a": "Proteins that will be exported from the cell."
+    },
+    {
+      "id": "bio-4.6-09",
+      "deck": "biology",
+      "chapter": "4.6 Ribosomes",
+      "q": "What does a ribosome translate mRNA into?",
+      "a": "The mRNA nucleotide sequence becomes the amino acid sequence of a polypeptide."
+    },
+    {
+      "id": "bio-4.6-10",
+      "deck": "biology",
+      "chapter": "4.6 Ribosomes",
+      "q": "DNA -> RNA -> protein is an example of which theme?",
+      "a": "The flow of INFORMATION."
+    },
+    {
+      "id": "bio-4.7-01",
+      "deck": "biology",
+      "chapter": "4.7 Endomembrane system",
+      "q": "What is the endomembrane system?",
+      "a": "Internal membranes that work together - some physically connected, others linked by vesicles."
+    },
+    {
+      "id": "bio-4.7-02",
+      "deck": "biology",
+      "chapter": "4.7 Endomembrane system",
+      "q": "Name the parts of the endomembrane system.",
+      "a": "Nuclear envelope, ER, Golgi, lysosomes, vesicles and vacuoles, plasma membrane."
+    },
+    {
+      "id": "bio-4.7-03",
+      "deck": "biology",
+      "chapter": "4.7 Endomembrane system",
+      "q": "What are vesicles?",
+      "a": "Tiny sacs made of membrane that move membrane segments between organelles."
+    },
+    {
+      "id": "bio-4.7-04",
+      "deck": "biology",
+      "chapter": "4.7 Endomembrane system",
+      "q": "Why is the plasma membrane in the endomembrane system?",
+      "a": "It is linked to the other membranes by vesicle transfer."
+    },
+    {
+      "id": "bio-4.7-05",
+      "deck": "biology",
+      "chapter": "4.7 Endomembrane system",
+      "q": "What is the largest part of the endomembrane system?",
+      "a": "The endoplasmic reticulum (ER) - a network of flattened sacs and tubules."
+    },
+    {
+      "id": "bio-4.7-06",
+      "deck": "biology",
+      "chapter": "4.7 Endomembrane system",
+      "q": "What does 'endoplasmic reticulum' mean?",
+      "a": "Endoplasmic = 'within the cytoplasm'; reticulum = Latin for 'little net'."
+    },
+    {
+      "id": "bio-4.7-07",
+      "deck": "biology",
+      "chapter": "4.7 Endomembrane system",
+      "q": "How is the ER directly connected to the nucleus?",
+      "a": "ER membranes are continuous with the nuclear envelope."
+    },
+    {
+      "id": "bio-4.7-08",
+      "deck": "biology",
+      "chapter": "4.7 Endomembrane system",
+      "q": "How does the ER reach other organelles indirectly?",
+      "a": "Vesicles bud from the ER and travel to other parts of the system."
+    },
+    {
+      "id": "bio-4.7-09",
+      "deck": "biology",
+      "chapter": "4.7 Endomembrane system",
+      "q": "Why does the ER enclose a space separate from the cytosol?",
+      "a": "It divides the cell into compartments, each able to keep different conditions."
+    },
+    {
+      "id": "bio-4.7-10",
+      "deck": "biology",
+      "chapter": "4.7 Endomembrane system",
+      "q": "Which includes the rest: ER, vesicle, endomembrane system, nuclear envelope?",
+      "a": "The endomembrane system."
     }
   ]
 }
