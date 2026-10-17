@@ -21,6 +21,12 @@
           "title": "Endomembrane system",
           "file": "biology/4.7.json",
           "count": 10
+        },
+        {
+          "section": "5-review",
+          "title": "Ch 5 Review: The working cell",
+          "file": "biology/5-review.json",
+          "count": 33
         }
       ]
     }

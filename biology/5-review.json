@@ -1,0 +1,172 @@
+{
+  "subject": "biology",
+  "section": "5-review",
+  "title": "Ch 5 Review: The working cell",
+  "cards": [
+    {
+      "id": "bio-5-review-01",
+      "q": "What are cell membranes made of?",
+      "a": "A fluid mosaic: a phospholipid bilayer with many proteins embedded in it."
+    },
+    {
+      "id": "bio-5-review-02",
+      "q": "Why was the spontaneous formation of membranes important?",
+      "a": "It was a critical step in the origin of life - it let the first cells enclose their contents."
+    },
+    {
+      "id": "bio-5-review-03",
+      "q": "What is passive transport?",
+      "a": "Diffusion of a substance across a membrane with no energy spent by the cell."
+    },
+    {
+      "id": "bio-5-review-04",
+      "q": "In diffusion, which way do molecules move?",
+      "a": "From higher concentration to lower concentration (down the gradient)."
+    },
+    {
+      "id": "bio-5-review-05",
+      "q": "What is osmosis?",
+      "a": "The diffusion of water across a selectively permeable membrane."
+    },
+    {
+      "id": "bio-5-review-06",
+      "q": "Animal cell in a hypotonic solution: what happens?",
+      "a": "Water rushes in, so the cell swells and may burst. Animal cells do best in isotonic solutions."
+    },
+    {
+      "id": "bio-5-review-07",
+      "q": "Plant cell in a hypotonic solution: what happens?",
+      "a": "It becomes turgid (firm) - the healthy state for plant cells. In isotonic solution it goes flaccid."
+    },
+    {
+      "id": "bio-5-review-08",
+      "q": "What is facilitated diffusion?",
+      "a": "Transport proteins help a solute cross the membrane down its gradient, with no energy used."
+    },
+    {
+      "id": "bio-5-review-09",
+      "q": "What are aquaporins?",
+      "a": "Channel proteins that let water move quickly across a membrane."
+    },
+    {
+      "id": "bio-5-review-10",
+      "q": "What is active transport?",
+      "a": "The cell spends energy (ATP) to move a solute against its gradient, from low to high concentration."
+    },
+    {
+      "id": "bio-5-review-11",
+      "q": "Exocytosis vs endocytosis?",
+      "a": "Exocytosis: a vesicle fuses with the membrane and expels contents. Endocytosis: membrane folds in to take material in."
+    },
+    {
+      "id": "bio-5-review-12",
+      "q": "Kinetic vs potential energy?",
+      "a": "Kinetic: energy of motion. Potential: stored energy from location or structure, like chemical energy."
+    },
+    {
+      "id": "bio-5-review-13",
+      "q": "What do the laws of thermodynamics say about energy?",
+      "a": "It can change form but is never created or destroyed. Each change increases entropy and loses some as heat."
+    },
+    {
+      "id": "bio-5-review-14",
+      "q": "What is entropy?",
+      "a": "A measure of disorder. Energy changes always increase it."
+    },
+    {
+      "id": "bio-5-review-15",
+      "q": "Exergonic vs endergonic reactions?",
+      "a": "Exergonic reactions release energy. Endergonic reactions take in energy and store it in their products."
+    },
+    {
+      "id": "bio-5-review-16",
+      "q": "What is metabolism?",
+      "a": "All of a cell's chemical reactions."
+    },
+    {
+      "id": "bio-5-review-17",
+      "q": "How does ATP power cellular work?",
+      "a": "ATP breaks down (hydrolysis) and passes a phosphate group to another molecule, energizing it."
+    },
+    {
+      "id": "bio-5-review-18",
+      "q": "What are the 3 main types of cellular work?",
+      "a": "Chemical work, transport work, and mechanical work."
+    },
+    {
+      "id": "bio-5-review-19",
+      "q": "What is energy coupling?",
+      "a": "Using the energy from an exergonic reaction (like ATP breakdown) to drive an endergonic one."
+    },
+    {
+      "id": "bio-5-review-20",
+      "q": "Making ATP from ADP and phosphate: does it store or release energy?",
+      "a": "It stores energy - it is an endergonic reaction."
+    },
+    {
+      "id": "bio-5-review-21",
+      "q": "How do enzymes speed up reactions?",
+      "a": "They lower the activation energy barrier. Enzymes are catalysts, usually proteins."
+    },
+    {
+      "id": "bio-5-review-22",
+      "q": "Why is the activation energy barrier good for cells?",
+      "a": "It keeps molecules from breaking down on their own; enzymes let the cell choose which reactions run."
+    },
+    {
+      "id": "bio-5-review-23",
+      "q": "Why does an enzyme work on only one substrate?",
+      "a": "The substrate's shape fits the enzyme's active site specifically."
+    },
+    {
+      "id": "bio-5-review-24",
+      "q": "Competitive vs noncompetitive inhibitor?",
+      "a": "Competitive: blocks the active site. Noncompetitive: binds elsewhere and changes the enzyme's shape."
+    },
+    {
+      "id": "bio-5-review-25",
+      "q": "How do inhibitors help regulate metabolism?",
+      "a": "Feedback inhibition: a pathway's end product shuts down an enzyme early in the pathway."
+    },
+    {
+      "id": "bio-5-review-26",
+      "q": "What do many drugs, pesticides, and poisons have in common?",
+      "a": "Many work by inhibiting enzymes."
+    },
+    {
+      "id": "bio-5-review-27",
+      "q": "Why are organophosphate pesticides a health risk?",
+      "a": "They block enzymes that break down neurotransmitters, disrupting nerve signals in people and animals too."
+    },
+    {
+      "id": "bio-5-review-28",
+      "q": "Cell has 10x less sodium than outside. How can it move more out?",
+      "a": "Active transport - moving a solute against its gradient needs energy."
+    },
+    {
+      "id": "bio-5-review-29",
+      "q": "Facilitated diffusion needs what, and which way does the solute move?",
+      "a": "Transport proteins; the solute moves down its concentration gradient."
+    },
+    {
+      "id": "bio-5-review-30",
+      "q": "When would kidney tubule cells have the most aquaporins?",
+      "a": "After a long run on a hot day - the body needs to reabsorb and save water."
+    },
+    {
+      "id": "bio-5-review-31",
+      "q": "Mercury blocks aquaporins. What happened to oocytes in high mercury?",
+      "a": "Their water permeability dropped the most. A mercury-reversing agent brought it back up."
+    },
+    {
+      "id": "bio-5-review-32",
+      "q": "More enzyme, same substrate: what happens to reaction rate?",
+      "a": "It rises in step with the enzyme - doubling the enzyme doubled the rate."
+    },
+    {
+      "id": "bio-5-review-33",
+      "q": "More substrate, same enzyme: what happens to reaction rate?",
+      "a": "It rises, then levels off - the enzyme molecules are all busy (saturated)."
+    }
+  ]
+}
