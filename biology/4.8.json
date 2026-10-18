@@ -1,0 +1,107 @@
+{
+  "subject": "biology",
+  "section": "4.8",
+  "title": "The ER: a biosynthetic workshop",
+  "cards": [
+    {
+      "id": "bio-4.8-01",
+      "q": "Smooth ER vs rough ER: what is the difference?",
+      "a": "Rough ER has ribosomes stuck to its outer surface. Smooth ER has none."
+    },
+    {
+      "id": "bio-4.8-02",
+      "q": "Why does rough ER look rough under a microscope?",
+      "a": "Bound ribosomes dot its outer surface."
+    },
+    {
+      "id": "bio-4.8-03",
+      "q": "What kind of molecules does smooth ER help make?",
+      "a": "Lipids - oils, phospholipids, and steroids."
+    },
+    {
+      "id": "bio-4.8-04",
+      "q": "Why are ovary and testis cells rich in smooth ER?",
+      "a": "They make steroid sex hormones, and smooth ER has the enzymes for steroid synthesis."
+    },
+    {
+      "id": "bio-4.8-05",
+      "q": "What does smooth ER do in liver cells?",
+      "a": "Its enzymes detoxify drugs, alcohol, and other harmful substances."
+    },
+    {
+      "id": "bio-4.8-06",
+      "q": "Why do people build up tolerance to some drugs?",
+      "a": "Repeated exposure makes liver cells grow more smooth ER and detox enzymes, so the drug is cleared faster."
+    },
+    {
+      "id": "bio-4.8-07",
+      "q": "Why can abusing one drug make other drugs less effective?",
+      "a": "Detox enzymes act on related chemicals too, so extra smooth ER breaks down other drugs, like some antibiotics."
+    },
+    {
+      "id": "bio-4.8-08",
+      "q": "What does smooth ER store in muscle cells?",
+      "a": "Calcium ions."
+    },
+    {
+      "id": "bio-4.8-09",
+      "q": "What makes a muscle cell contract?",
+      "a": "A nerve signal makes calcium ions rush out of the smooth ER into the cytosol."
+    },
+    {
+      "id": "bio-4.8-10",
+      "q": "What does rough ER make for the cell to secrete?",
+      "a": "Secretory proteins, made by its bound ribosomes. Example: insulin."
+    },
+    {
+      "id": "bio-4.8-11",
+      "q": "What is insulin and where is it made?",
+      "a": "A hormone made and secreted by certain pancreas cells, then carried in the blood."
+    },
+    {
+      "id": "bio-4.8-12",
+      "q": "What causes type 1 diabetes?",
+      "a": "The insulin-making pancreas cells are destroyed, so a lack of insulin disrupts glucose metabolism."
+    },
+    {
+      "id": "bio-4.8-13",
+      "q": "What happens to a new polypeptide as it enters the rough ER?",
+      "a": "It is threaded into the ER cavity and folds into its 3-D shape."
+    },
+    {
+      "id": "bio-4.8-14",
+      "q": "What is a glycoprotein?",
+      "a": "A protein with short sugar chains attached. Glyco means sugar."
+    },
+    {
+      "id": "bio-4.8-15",
+      "q": "What is a transport vesicle?",
+      "a": "A vesicle that buds off a membrane and carries molecules from one part of the cell to another."
+    },
+    {
+      "id": "bio-4.8-16",
+      "q": "Order the steps for a secretory protein in rough ER.",
+      "a": "Made by bound ribosome, enters ER and folds, sugars added, packed in a transport vesicle that buds off."
+    },
+    {
+      "id": "bio-4.8-17",
+      "q": "Where does the vesicle from the rough ER go next?",
+      "a": "To the Golgi apparatus for more processing, then to the plasma membrane for release."
+    },
+    {
+      "id": "bio-4.8-18",
+      "q": "How is rough ER a membrane factory?",
+      "a": "It adds membrane proteins and phospholipids to its own membrane, then ships pieces off in vesicles."
+    },
+    {
+      "id": "bio-4.8-19",
+      "q": "Where do the protein-making instructions in mRNA come from?",
+      "a": "From a gene in the DNA in the nucleus."
+    },
+    {
+      "id": "bio-4.8-20",
+      "q": "Why is the ER called a biosynthetic workshop?",
+      "a": "It makes many molecules: phospholipids for membranes, steroid hormones, and proteins for secretion."
+    }
+  ]
+}

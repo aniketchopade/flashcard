@@ -1,0 +1,57 @@
+{
+  "subject": "biology",
+  "section": "4.11",
+  "title": "Vacuoles",
+  "cards": [
+    {
+      "id": "bio-4.11-01",
+      "q": "What are vacuoles?",
+      "a": "Large vesicles with many different jobs."
+    },
+    {
+      "id": "bio-4.11-02",
+      "q": "What do contractile vacuoles do?",
+      "a": "Collect extra water and pump it out of the cell."
+    },
+    {
+      "id": "bio-4.11-03",
+      "q": "Why do freshwater protists like Paramecium need contractile vacuoles?",
+      "a": "Water keeps flowing in; without pumping it out, the cell would swell and burst."
+    },
+    {
+      "id": "bio-4.11-04",
+      "q": "What do some vacuoles in plants and fungi do?",
+      "a": "Digest material, like lysosomes do in animal cells."
+    },
+    {
+      "id": "bio-4.11-05",
+      "q": "What do small vacuoles in seeds store?",
+      "a": "Reserves of protein."
+    },
+    {
+      "id": "bio-4.11-06",
+      "q": "Why do flower petal vacuoles have pigments?",
+      "a": "The colors attract pollinating insects."
+    },
+    {
+      "id": "bio-4.11-07",
+      "q": "How can vacuoles protect a plant from animals?",
+      "a": "They store poisonous or bad-tasting chemicals, like nicotine and caffeine."
+    },
+    {
+      "id": "bio-4.11-08",
+      "q": "How does the central vacuole help a plant cell grow?",
+      "a": "It soaks up water and gets bigger, enlarging the cell."
+    },
+    {
+      "id": "bio-4.11-09",
+      "q": "What else does the central vacuole store?",
+      "a": "Important chemicals and toxic wastes - a safe trash can."
+    },
+    {
+      "id": "bio-4.11-10",
+      "q": "Is a food vacuole part of the endomembrane system?",
+      "a": "Yes. It forms by pinching in from the plasma membrane, which is part of the system."
+    }
+  ]
+}

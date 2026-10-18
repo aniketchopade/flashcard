@@ -23,6 +23,36 @@
           "count": 10
         },
         {
+          "section": "4.8",
+          "title": "The ER: a biosynthetic workshop",
+          "file": "biology/4.8.json",
+          "count": 20
+        },
+        {
+          "section": "4.9",
+          "title": "Golgi apparatus",
+          "file": "biology/4.9.json",
+          "count": 10
+        },
+        {
+          "section": "4.10",
+          "title": "Lysosomes",
+          "file": "biology/4.10.json",
+          "count": 10
+        },
+        {
+          "section": "4.11",
+          "title": "Vacuoles",
+          "file": "biology/4.11.json",
+          "count": 10
+        },
+        {
+          "section": "4.12",
+          "title": "Endomembrane system review",
+          "file": "biology/4.12.json",
+          "count": 10
+        },
+        {
           "section": "5-review",
           "title": "Ch 5 Review: The working cell",
           "file": "biology/5-review.json",

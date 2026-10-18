@@ -1,0 +1,57 @@
+{
+  "subject": "biology",
+  "section": "4.12",
+  "title": "Endomembrane system review",
+  "cards": [
+    {
+      "id": "bio-4.12-01",
+      "q": "Which organelles are directly connected by membrane?",
+      "a": "The nuclear envelope, rough ER, and smooth ER."
+    },
+    {
+      "id": "bio-4.12-02",
+      "q": "What links the ER and Golgi functionally?",
+      "a": "Transport vesicles carrying ER-made membranes and proteins."
+    },
+    {
+      "id": "bio-4.12-03",
+      "q": "What can vesicles from the Golgi become or do?",
+      "a": "Become lysosomes or vacuoles, or fuse with the plasma membrane to secrete contents."
+    },
+    {
+      "id": "bio-4.12-04",
+      "q": "What happens when a vesicle fuses with the plasma membrane?",
+      "a": "It releases its contents outside and adds its membrane to the plasma membrane."
+    },
+    {
+      "id": "bio-4.12-05",
+      "q": "Are peroxisomes part of the endomembrane system?",
+      "a": "No. They do not come from it, and how they relate to other organelles is unknown."
+    },
+    {
+      "id": "bio-4.12-06",
+      "q": "What do some peroxisomes break down?",
+      "a": "Fatty acids, to use as cell fuel."
+    },
+    {
+      "id": "bio-4.12-07",
+      "q": "What do peroxisomes do in the liver?",
+      "a": "Detoxify harmful compounds."
+    },
+    {
+      "id": "bio-4.12-08",
+      "q": "What toxic by-product do peroxisomes make, and how is it handled?",
+      "a": "Hydrogen peroxide (H2O2). Other peroxisome enzymes turn it into water."
+    },
+    {
+      "id": "bio-4.12-09",
+      "q": "How do transport vesicles tie the endomembrane system together?",
+      "a": "They move membranes and the substances inside them between its parts."
+    },
+    {
+      "id": "bio-4.12-10",
+      "q": "Which two organelles are the cell's power stations?",
+      "a": "Mitochondria and chloroplasts."
+    }
+  ]
+}

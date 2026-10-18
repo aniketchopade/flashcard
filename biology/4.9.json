@@ -1,0 +1,57 @@
+{
+  "subject": "biology",
+  "section": "4.9",
+  "title": "Golgi apparatus",
+  "cards": [
+    {
+      "id": "bio-4.9-01",
+      "q": "What does the Golgi apparatus do?",
+      "a": "It modifies, sorts, and ships products made by the ER."
+    },
+    {
+      "id": "bio-4.9-02",
+      "q": "Who discovered the Golgi apparatus, and when?",
+      "a": "Italian scientist Camillo Golgi, in 1898, using a light microscope and a stain he invented."
+    },
+    {
+      "id": "bio-4.9-03",
+      "q": "What does the Golgi apparatus look like?",
+      "a": "A stack of flattened sacs, like a pile of pita bread. The sacs are not connected."
+    },
+    {
+      "id": "bio-4.9-04",
+      "q": "Why do some cells have many Golgi stacks?",
+      "a": "The number tracks how active the cell is in secreting proteins."
+    },
+    {
+      "id": "bio-4.9-05",
+      "q": "What happens at the Golgi's receiving side?",
+      "a": "Transport vesicles from the ER fuse with it, adding their membrane and contents."
+    },
+    {
+      "id": "bio-4.9-06",
+      "q": "What happens at the Golgi's shipping side?",
+      "a": "Finished products leave in vesicles that bud off and travel to other sites."
+    },
+    {
+      "id": "bio-4.9-07",
+      "q": "How do Golgi enzymes change glycoproteins?",
+      "a": "They trim some sugars and swap in others."
+    },
+    {
+      "id": "bio-4.9-08",
+      "q": "How does the Golgi know where to send each molecule?",
+      "a": "It adds ID tags, such as phosphate groups, to sort molecules for different destinations."
+    },
+    {
+      "id": "bio-4.9-09",
+      "q": "Where can finished Golgi products end up?",
+      "a": "Secreted at the plasma membrane, part of the plasma membrane, or part of an organelle like a lysosome."
+    },
+    {
+      "id": "bio-4.9-10",
+      "q": "How do the ER and Golgi work together to secrete proteins?",
+      "a": "ER makes proteins and ships them in vesicles; Golgi finishes, sorts, and sends them to the plasma membrane."
+    }
+  ]
+}

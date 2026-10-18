@@ -1,0 +1,57 @@
+{
+  "subject": "biology",
+  "section": "4.10",
+  "title": "Lysosomes",
+  "cards": [
+    {
+      "id": "bio-4.10-01",
+      "q": "What is a lysosome?",
+      "a": "A membrane-enclosed sac of digestive enzymes."
+    },
+    {
+      "id": "bio-4.10-02",
+      "q": "What does the name lysosome mean?",
+      "a": "Breakdown body (from Greek)."
+    },
+    {
+      "id": "bio-4.10-03",
+      "q": "Where are lysosome enzymes and membranes made?",
+      "a": "Made by rough ER, then processed in the Golgi."
+    },
+    {
+      "id": "bio-4.10-04",
+      "q": "Why are lysosomes acidic inside?",
+      "a": "Their enzymes work best in acid. The membrane keeps them away from the rest of the cell."
+    },
+    {
+      "id": "bio-4.10-05",
+      "q": "What is a food vacuole?",
+      "a": "A membrane sac formed when a cell engulfs food particles."
+    },
+    {
+      "id": "bio-4.10-06",
+      "q": "How do lysosomes help digest food?",
+      "a": "They fuse with a food vacuole and digest it; nutrients go into the cytosol."
+    },
+    {
+      "id": "bio-4.10-07",
+      "q": "How do white blood cells use lysosomes?",
+      "a": "They engulf bacteria and destroy them with lysosome enzymes."
+    },
+    {
+      "id": "bio-4.10-08",
+      "q": "How is a lysosome like a recycling center?",
+      "a": "It breaks down damaged organelles and old cytosol so the molecules can be reused."
+    },
+    {
+      "id": "bio-4.10-09",
+      "q": "What is a lysosomal storage disease?",
+      "a": "An inherited disease where a lysosome enzyme is missing, so undigested material builds up."
+    },
+    {
+      "id": "bio-4.10-10",
+      "q": "What goes wrong in Tay-Sachs disease?",
+      "a": "A lipid-digesting enzyme is missing, so lipids build up and harm brain cells."
+    }
+  ]
+}
